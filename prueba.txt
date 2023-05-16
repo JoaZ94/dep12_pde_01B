@@ -1,1 +1,3 @@
 Este es un archivo en la rama jdiaz 
+
+Con este ejericio se busca practicar los comando más usuales de GIT.
