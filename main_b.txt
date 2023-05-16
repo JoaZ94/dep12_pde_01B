@@ -1,1 +1,2 @@
 Segundo archivo rama main, commit a01
+Segunda línea del archivo, commit a02
